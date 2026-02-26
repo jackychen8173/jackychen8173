@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting and impactful projects**
 
-- 💬 Ask me about **Python, React, TypeScript, SQL, or programming in general**
+- 💬 Ask me about **Java, Python, React, TypeScript, SQL, or programming in general**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
