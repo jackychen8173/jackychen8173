@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jacky Chen</h1>
-<h3 align="center">Pursuing a Master’s at BCIT, passionate about software, data, and machine learning, with experience in Python, Java, React, TypeScript, and SQL.</h3>
+<h3 align="center">Pursuing a Master's at BCIT, passionate about software, data, and machine learning, with experience in Python, Java, React, TypeScript, and SQL.</h3>
 
-- 🔭 I’m currently working on **Personal projects and technical skill development**
+<p align="center">
+  <a href="https://jackychen8173.github.io" target="_blank">🌐 Visit my portfolio website</a>
+</p>
 
-- 🌱 I’m currently learning **Machine learning, software design, and new technologies**
+- 🔭 I'm currently working on **personal projects**
 
-- 👯 I’m looking to collaborate on **Interesting and impactful projects**
+- 🌱 I'm currently learning **Machine learning, full-stack development, and system design**
 
-- 💬 Ask me about **Java, Python, React, TypeScript, SQL, or programming in general**
+- 👯 I'm looking to collaborate on **Interesting and impactful projects**
+
+- 💼 Starting my **Mobile App Developer Co-op at Obodo Development Corp.** in May 2026
+
+- 💬 Ask me about **Java, Python, React, TypeScript, SQL, Spring Boot, or data analytics**
+
+- 📫 How to reach me: **jchen8173@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
